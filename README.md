@@ -3,7 +3,7 @@ Polyglot app made in c#
 
 ## ¿Cómo correr la aplicación?
 
-En la carpeta Buildings ejecutar polyglot.exe
+En la carpeta Building ejecutar PolyGlot.exe
 
 ## Código
 
